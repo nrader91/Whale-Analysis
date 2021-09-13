@@ -10,5 +10,9 @@ There are 3 main tasks that will be accomplished.
 3)Create custom portfolio and provide similar analysis.
 
 # Conclusion
+Analysis of all portfolios brought forth some interesting results.  The top performing portfolio turned out to be Algorithim 1.
 
+Our created portfolio out performed the S&P 500 (SPy) but fell short to Algo 1 in certain areas.
+
+Final Assesstment - To minimize risk and secure profit it would be best to use a combination of Algo 1, My Portfolio & SPY.
 
